@@ -1,1 +1,1 @@
-# Hostel-Website
+# Hotel-Website
