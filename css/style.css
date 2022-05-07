@@ -59,6 +59,10 @@ p {
     background: #f4f4f4f4;
     color: #333;
 }
+.bg-dark {
+    background: #333;
+    color: white;
+}
 
 /* NavBar */
 #navbar {
